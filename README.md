@@ -79,7 +79,7 @@ Scientific software must provide reproducible results. Automatic testing ensures
   nox -s typing
   ```
 
-### Final Task 13: Finishing up the task
+### Final Task 13: Submitting your solution
 At the end of the day, after you finished all your tasks, we want to save the results and upload them to your online GitHub repository. Ideally, all the tests were successful. Follow these steps:
 - Open a terminal by pressing `Ctrl+Alt+T`. Navigate into this directory using the `cd` command.
 - Use
